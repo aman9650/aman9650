@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aman Gautam</h1>
-<h3 align="center">A passionate Data Scientist</h3>
+<h3 align="center">A passionate Java Developer</h3>
 <img aligh="right alt="coding" width="400" src="![image](https://github.com/aman9650/aman9650/assets/97427361/1f90c4bb-ad3c-4aad-936e-e7c1a821023a)
 ">
 - 🌱 I’m currently learning **Machine Learning and Deep learning**
 
-- 💬 Ask me about **Python , SQL , Machine learning**
+- 💬 Ask me about **Python , SQL , Machine learning. Java, Sprint,SpringBoot , OOPS, Servlet, Spring Jpa**
 
 - 📫 How to reach me **amangautam5027@gmail.com**
 
